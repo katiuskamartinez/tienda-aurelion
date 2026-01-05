@@ -1,0 +1,15 @@
+# Ignorar carpetas de entorno virtual de Python
+
+venv/
+env/
+.venv/
+.env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.Python
+.pytest_cache/
+.vscode/
+.idea/
