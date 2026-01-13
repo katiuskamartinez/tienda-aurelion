@@ -48,7 +48,7 @@ Sigue estos pasos para configurar el entorno local y ejecutar el chatbot:
 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-katiuskamartinez/tienda-aurelion.git
+git clone https://github.com/katiuskamartinez/tienda-aurelion.git
 cd tienda-aurelion
 ```
 
